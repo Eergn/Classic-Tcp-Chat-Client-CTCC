@@ -1,8 +1,8 @@
-# Classic-Tcp-Client-CTC-
-Classic Transmission Control Protocol Client.
+# Classic-Tcp-Chat-Client-CTCC
+Classic Transmission Control Protocol Chat Client.
 
 
 You can Get Pre-Compiled Binaries From The Release Section.
 
 
-Enjoy The [Classic TCP Client].
+Enjoy The [Classic TCP Chat Client].
