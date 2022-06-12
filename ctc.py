@@ -7,7 +7,7 @@ Username = input("Choose a Username >> ")
 
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-client.connect((Server,497))
+client.connect((Server,65432))
 
 
 def recive():
